@@ -20,7 +20,7 @@ const Index = () => {
             </Button>
           </Box>
           <Box flex={1}>
-            <Image src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHdpdGglMjBnbG93aW5nJTIwc2tpbnxlbnwwfHx8fDE3MTAzNjQ0OTR8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="Beautiful Woman" />
+            <Image src="https://images.unsplash.com/photo-1519699047748-de8e457a634e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjAwMjR8MHwxfHNlYXJjaHwxfHxvbGRlciUyMHdvbWVuJTIwbW9kZWxzfGVufDB8fHx8MTY4NjY4NzM2MHww&ixlib=rb-4.0.3&q=80&w=1080" alt="Two beautiful older women" />
           </Box>
         </Flex>
       </Box>
